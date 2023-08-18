@@ -25,8 +25,14 @@ const details = {
 };
 ```
 
+
+
+<div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=somyabhattcu1&show_icons=true&theme=dark" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somyabhattcu1&layout=compact&theme=dark" />
+</div>
+
+
 
 
 
